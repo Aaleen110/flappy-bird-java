@@ -1,4 +1,5 @@
 🐦 Flappy Bird in Java 🎮
+
 A simple recreation of the classic Flappy Bird game built with Java Swing.This project features smooth bird movement, randomly generated pipes, collision detection, and score tracking — all packed into a lightweight desktop game.
 
 
