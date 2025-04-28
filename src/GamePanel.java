@@ -32,7 +32,7 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
     private void loadAssets() {
         birdImage = new ImageIcon("assets/bird.png").getImage();
         pipeImage = new ImageIcon("assets/pipe.png").getImage();
-        backgroundImage = new ImageIcon("assets/background.png").getImage();
+        backgroundImage = new ImageIcon("assets/background.jpg").getImage();
     }
     
     private void playSound(String filename) {
@@ -97,7 +97,7 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
             g.drawImage(pipeImage, pipe.x, pipe.y, pipe.width, pipe.height, null);
         }
         
-        g.drawImage(birdImage, 100, birdY, 34, 24, null);
+        g.drawImage(birdImage, 100, birdY, 34, 34, null);
         
         g.setColor(Color.black);
         g.setFont(new Font("Arial", Font.BOLD, 32));
