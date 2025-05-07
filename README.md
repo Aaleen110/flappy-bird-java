@@ -36,25 +36,19 @@ java FlappyBirdGame
 * R — Restart
 
 
-### Screenshots
-After Prompt 1 (Basic Version)
-
-![Prompt 1 Screenshot](assets/Prompt-1.png)
-
-
-After Prompt 2 (Polished Version)
-
-![Prompt 2 Screenshot](assets/Prompt-2.png)
-
-
-
-### Prompts Used (AI Assistance)
+### Prompts used & Screenshots
 
 *Prompt 1:*
 Build a Flappy Bird game in Java. Use Swing. Implement gravity, pipes, jumping, scoring, and collision detection. Keep it simple but playable.
 
+After Prompt 1 (Basic Version)
+![Prompt 1 Screenshot](assets/Prompt-1.png)
+
 *Prompt 2:*
 Now, polish the Flappy Bird game: add background images, custom bird and pipe images, sound effects for jump/collision/scoring, smoother animations. Also list the required assets.
+(Also added the listed assets to specified folder)
+After Prompt 2 (Polished Version)
+![Prompt 2 Screenshot](assets/Prompt-2.png)
 
 Prompt engineering made this project faster, cleaner, and a lot more fun! 🚀
 
