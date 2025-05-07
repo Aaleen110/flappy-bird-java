@@ -46,9 +46,11 @@ After Prompt 1 (Basic Version)
 
 *Prompt 2:*
 Now, polish the Flappy Bird game: add background images, custom bird and pipe images, sound effects for jump/collision/scoring, smoother animations. Also list the required assets.
-(Also added the listed assets to specified folder)
+
 After Prompt 2 (Polished Version)
 ![Prompt 2 Screenshot](assets/Prompt-2.png)
+
+(NOTE: Also added the listed assets to specified folder, you can find flappy bird assets anywhere on the internet)
 
 Prompt engineering made this project faster, cleaner, and a lot more fun! 🚀
 
